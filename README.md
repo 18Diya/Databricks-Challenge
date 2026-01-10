@@ -1,5 +1,5 @@
 # Databricks-Challenge
-At Indian Data Club, we’re on a mission to empower the next generation with practical AI and data skills. Our Databricks 14-Days AI Challenge is designed to help beginners build a strong foundation Databricks through daily learning, hands-on practice, and real-world problem solving.
+Excited to be joining the Databricks 14 Days AI Challenge by Indian Data Club! I’m looking forward to strengthening my fundamentals in Databricks, Apache Spark, and real‑world data engineering workflows through hands‑on learning. Eager to learn, build, and grow alongside the community over the next 14 days!
 
 # DAY 01
 <img width="1901" height="828" alt="image" src="https://github.com/user-attachments/assets/c5cd33d1-63de-4f71-a332-a8344bdf37ee" />
