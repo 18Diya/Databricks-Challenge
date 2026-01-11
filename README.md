@@ -31,3 +31,24 @@ Tasks I Completed:
 <img width="1915" height="902" alt="image" src="https://github.com/user-attachments/assets/b3db2bf1-236f-4b02-a058-02746cc94104" />
 <img width="1913" height="890" alt="image" src="https://github.com/user-attachments/assets/2b290189-1fa2-4a8f-bb78-7caa01ba44a4" />
 <img width="1914" height="895" alt="image" src="https://github.com/user-attachments/assets/b317c849-91ce-4260-b910-a4d62f538ef9" />
+
+# DAY 03 Completed (11/01/2026) – Databricks 14 Days AI Challenge
+
+I’ve completed Day 3 of the Databricks AI Challenge, and today was all about going deeper into PySpark transformations and real-world data processing.
+
+What I Learned Today:
+• Key differences between PySpark and Pandas for large-scale data processing
+• Implementing joins (inner, left, right, full outer) in PySpark
+• Using window functions for running totals and ranking analytics
+• Creating and applying User-Defined Functions (UDFs)
+
+Tasks I Completed:
+• Loaded the full e-commerce dataset into Databricks
+• Performed complex joins across multiple tables
+• Calculated running totals using window functions
+• Built derived features for analytical use cases
+
+<img width="1916" height="899" alt="image" src="https://github.com/user-attachments/assets/c264fa61-97e7-4f9e-8d14-640307856e4f" />
+<img width="1919" height="613" alt="image" src="https://github.com/user-attachments/assets/ba34914e-5243-4f24-88cd-24e33997741a" />
+<img width="1918" height="772" alt="image" src="https://github.com/user-attachments/assets/e57b4224-dd72-43d1-aadd-260360908f66" />
+
