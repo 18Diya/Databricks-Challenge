@@ -52,3 +52,24 @@ Tasks I Completed:
 <img width="1919" height="613" alt="image" src="https://github.com/user-attachments/assets/ba34914e-5243-4f24-88cd-24e33997741a" />
 <img width="1918" height="772" alt="image" src="https://github.com/user-attachments/assets/e57b4224-dd72-43d1-aadd-260360908f66" />
 
+# DAY 04 Completed (12/01/2026) – Databricks 14 Days AI Challenge
+
+I’ve completed Day 4 of the Databricks AI Challenge, focusing on Delta Lake fundamentals and reliability in data engineering.
+
+What I Learned Today:
+• Understanding Delta Lake architecture and how it extends Parquet
+• How ACID transactions ensure data consistency in distributed systems
+• Schema enforcement vs schema evolution in Delta tables
+• Key differences between Delta Lake and Parquet for analytics workloads
+
+Tasks I Completed:
+• Converted raw CSV data into Delta format
+• Created managed Delta tables using SQL and PySpark
+• Tested schema enforcement by attempting invalid writes
+• Handled duplicate inserts using Delta Lake constraints and overwrite strategies
+
+<img width="1912" height="911" alt="image" src="https://github.com/user-attachments/assets/79b3aa39-81b9-44c7-bb9e-d6c3a2099ed4" />
+<img width="1919" height="886" alt="image" src="https://github.com/user-attachments/assets/c1890565-d8a2-4e0e-b65f-52f8a629f05a" />
+
+
+
