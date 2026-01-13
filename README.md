@@ -71,5 +71,25 @@ Tasks I Completed:
 <img width="1912" height="911" alt="image" src="https://github.com/user-attachments/assets/79b3aa39-81b9-44c7-bb9e-d6c3a2099ed4" />
 <img width="1919" height="886" alt="image" src="https://github.com/user-attachments/assets/c1890565-d8a2-4e0e-b65f-52f8a629f05a" />
 
+# DAY 05 Completed (13/01/2026) – Databricks 14 Days AI Challenge
+I’ve successfully completed Day 5 of the Databricks AI Challenge, diving deep into advanced Delta Lake operations that enable reliable, high-performance data engineering workflows.
+
+What I Learned Today:
+• Delta Lake time travel and version history querying
+• Incremental data processing using MERGE (upserts)
+• Performance tuning with OPTIMIZE and Z-ORDER
+• Data lifecycle management using VACUUM
+
+Tasks I Completed:
+• Implemented incremental MERGE operations on Delta tables
+• Queried historical versions using time travel
+• Optimized Delta tables for faster query performance
+• Cleaned up obsolete data files using VACUUM
+
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/57920bfa-56f9-4c02-8d20-a979ed53fab3" />
+<img width="1916" height="786" alt="image" src="https://github.com/user-attachments/assets/715c4822-cee3-400f-b224-65a6bc887ff0" />
+<img width="1914" height="911" alt="image" src="https://github.com/user-attachments/assets/054c1c03-8d58-4a83-b9d5-60182652290d" />
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/3978af16-ad9d-42b4-b861-9ad6d40d73ee" />
+
 
 
