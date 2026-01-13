@@ -1,5 +1,5 @@
 # Databricks-Challenge
-Excited to be joining the Databricks 14 Days AI Challenge by Indian Data Club! I’m looking forward to strengthening my fundamentals in Databricks, Apache Spark, and real‑world data engineering workflows through hands‑on learning. Eager to learn, build, and grow alongside the community over the next 14 days!
+Excited to be joining the Databricks 14 Days AI Challenge by Indian Data Club! I’m looking forward to strengthening my fundamentals in Databricks, Apache Spark, and real‑world data engineering workflows through hands‑on learning. Eager to learn, build, and grow alongside the community over the next 14 days.
 
 # Day 0 | Setup & Data Loading – Databricks 14 Days AI Challenge
 Focused on setting up the environment and preparing data before starting Day 1.
