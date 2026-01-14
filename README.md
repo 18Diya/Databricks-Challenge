@@ -91,5 +91,9 @@ Tasks I Completed:
 <img width="1914" height="911" alt="image" src="https://github.com/user-attachments/assets/054c1c03-8d58-4a83-b9d5-60182652290d" />
 <img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/3978af16-ad9d-42b4-b861-9ad6d40d73ee" />
 
+# DAY 06 Completed (14/01/2026) – Databricks 14 Days AI Challenge
+
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/83b58cbe-1d1c-4c0e-acda-42acf032417a" />
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/1a1c8695-660c-48a8-a80f-c077b938d42b" />
 
 
