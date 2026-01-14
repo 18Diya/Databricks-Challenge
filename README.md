@@ -96,11 +96,8 @@ Tasks I Completed:
 I’ve successfully completed Day 6 of the Databricks AI Challenge, focusing on building a scalable Medallion Architecture to structure data pipelines for analytics-ready workloads.
 
 What I Learned Today:
-
 • Medallion Architecture: Bronze (raw) → Silver (cleaned) → Gold (aggregated)
-
 • Best practices for designing each data layer
-
 • Incremental processing patterns for efficient data movement
 
 Tasks I Completed:
