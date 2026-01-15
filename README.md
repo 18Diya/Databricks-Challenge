@@ -14,6 +14,7 @@ Grateful for the support and initiative by [Databricks,](https://databricks.com/
 
 
 # Day 0 | Setup & Data Loading – Databricks 14 Days AI Challenge
+
 Focused on setting up the environment and preparing data before starting Day 1.
 
 What I completed: → Created Databricks Community Edition account and cluster → Configured Kaggle API credentials → Created schema and volume for data storage → Downloaded and extracted e‑commerce dataset from Kaggle → Loaded October & November 2019 data into Spark
@@ -21,6 +22,7 @@ What I completed: → Created Databricks Community Edition account and cluster �
 Setup done. Data ready.
 
 # DAY 01 Completed (09/01/2026)– Databricks 14 Days AI Challenge
+
 I’ve completed Day 1 of the Databricks AI Challenge, and it was an exciting start to my journey into the Databricks Lakehouse ecosystem.
 
 What I Learned Today:
@@ -32,6 +34,7 @@ Tasks I Completed:
 <img width="1901" height="828" alt="image" src="https://github.com/user-attachments/assets/c5cd33d1-63de-4f71-a332-a8344bdf37ee" />
 
 # DAY 02 Completed (10/01/2026) – Databricks 14 Days AI Challenge
+
 I’ve completed Day 2 of the Databricks AI Challenge, where the focus was on building strong fundamentals in Apache Spark and understanding how data is processed at scale.
 
 What I Learned Today:
@@ -121,4 +124,25 @@ Tasks I Completed:
 <img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/83b58cbe-1d1c-4c0e-acda-42acf032417a" />
 <img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/1a1c8695-660c-48a8-a80f-c077b938d42b" />
 
+# DAY 07 Completed (15/01/2026) – Databricks 14 Days AI Challenge
+
+I’ve successfully completed Day 7 of the Databricks AI Challenge, focusing on orchestrating production-grade data pipelines using Databricks Jobs.
+
+What I Learned Today:
+• Differences between Databricks Jobs and notebooks
+• Building multi-task workflows for end-to-end pipelines
+• Using parameters and scheduling for automation
+• Implementing error handling and retries
+
+Tasks I Completed:
+• Added parameter widgets to notebooks
+• Created a multi-task job workflow (Bronze → Silver → Gold)
+• Configured task dependencies
+• Scheduled automated job execution
+
+<img width="1915" height="901" alt="image" src="https://github.com/user-attachments/assets/0ff1bd88-61c0-4197-9fb5-2379291b3da2" />
+<img width="1899" height="870" alt="image" src="https://github.com/user-attachments/assets/4f694321-6c80-4916-b9cd-db6f176aae20" />
+<img width="1664" height="750" alt="image" src="https://github.com/user-attachments/assets/3e4b2ae6-b0b2-463e-bf75-04bcafcac190" />
+<img width="1919" height="904" alt="Screenshot 2026-01-15 183255" src="https://github.com/user-attachments/assets/3ddfb342-5ce7-47e8-9fa0-82ff45e48258" />
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/043326f8-2c81-42bd-9945-5e804eb4c2f2" />
 
