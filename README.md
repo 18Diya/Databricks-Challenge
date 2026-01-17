@@ -189,4 +189,25 @@ Tasks I Completed:
 <img width="1919" height="891" alt="image" src="https://github.com/user-attachments/assets/1cffd439-3a73-4ea9-83b6-0dcce8591da9" />
 <img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/c38d8bcd-95b8-4e60-9b62-36d6fac205fc" />
 
+# DAY 10 Completed (18/01/2026) – Databricks 14 Days AI Challenge
+
+I’ve successfully completed Day 10 of the Databricks AI Challenge, focused on query performance optimization—an essential step for building fast, scalable analytics on large datasets.
+
+What I Learned Today:
+• Understanding and interpreting Spark SQL query execution plans
+• Effective partitioning strategies for large Delta tables
+• Performance tuning using OPTIMIZE and ZORDER
+• Leveraging caching techniques to reduce query latency
+
+Tasks I Completed:
+• Analyzed query execution plans to identify bottlenecks
+• Partitioned large tables to improve scan efficiency
+• Applied OPTIMIZE and ZORDER for data layout optimization
+• Benchmarked performance improvements before and after tuning
+
+<img width="1916" height="885" alt="image" src="https://github.com/user-attachments/assets/b73238d3-d2b0-47a3-9f39-8a94bd16fc9b" />
+<img width="1914" height="655" alt="image" src="https://github.com/user-attachments/assets/21157283-d725-469a-943e-89ef3d8ffa90" />
+<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/adee9007-735d-4f55-9e35-03369d8e9bc0" />
+
+
 
