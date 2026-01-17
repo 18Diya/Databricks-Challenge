@@ -205,9 +205,9 @@ Tasks I Completed:
 • Applied OPTIMIZE and ZORDER for data layout optimization
 • Benchmarked performance improvements before and after tuning
 
+<img width="1919" height="850" alt="image" src="https://github.com/user-attachments/assets/05de74da-78c8-48a6-a7b0-161b0defaf26" />
 <img width="1916" height="885" alt="image" src="https://github.com/user-attachments/assets/b73238d3-d2b0-47a3-9f39-8a94bd16fc9b" />
 <img width="1914" height="655" alt="image" src="https://github.com/user-attachments/assets/21157283-d725-469a-943e-89ef3d8ffa90" />
-<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/adee9007-735d-4f55-9e35-03369d8e9bc0" />
 
 
 
