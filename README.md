@@ -209,5 +209,24 @@ Tasks I Completed:
 <img width="1916" height="885" alt="image" src="https://github.com/user-attachments/assets/b73238d3-d2b0-47a3-9f39-8a94bd16fc9b" />
 <img width="1914" height="655" alt="image" src="https://github.com/user-attachments/assets/21157283-d725-469a-943e-89ef3d8ffa90" />
 
+# DAY 11 Completed (19/01/2026) – Databricks 14 Days AI Challenge
 
+I’ve successfully completed Day 11 of the Databricks AI Challenge, focused on applying statistical thinking and feature engineering to real-world data—turning raw events into ML-ready insights.
+
+What I Learned Today:
+• Descriptive statistics to summarize large datasets
+• Hypothesis testing concepts and A/B test design
+• Comparing behavioral patterns (weekday vs weekend)
+• Feature engineering techniques for machine learning
+
+Tasks I Completed:
+• Calculated statistical summaries (mean, variance, distributions)
+• Tested hypotheses comparing weekday and weekend behavior
+• Identified correlations between key business metrics
+• Engineered temporal and behavioral features for ML models
+
+<img width="1916" height="905" alt="image" src="https://github.com/user-attachments/assets/48903f5c-e812-4237-a01f-e250e503108d" />
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/daf24148-924e-4534-bb3e-0b973f381fb6" />
+<img width="1919" height="464" alt="image" src="https://github.com/user-attachments/assets/36987141-8aeb-4c39-b885-eed2d9e3bfe5" />
+<img width="1909" height="908" alt="image" src="https://github.com/user-attachments/assets/63afe41b-76d3-47f3-97dc-d21e493d2d77" />
 
