@@ -257,7 +257,35 @@ Tasks I Completed:
 
 <img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/bc3b21c8-eab6-4f85-ac56-436a182119ef" />
 
-
 <img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/c9f80353-8c23-49e2-a8ad-060cce5543d7" />
+
+# DAY 13 (21/01/26) – Model Comparison & Feature Engineering
+
+I successfully completed Day 13 of the Databricks AI Challenge, focused on training multiple models, comparing their performance, and working with Spark ML pipelines.
+
+What I Learned Today:
+• Training and evaluating multiple machine learning models
+• Comparing model metrics using MLflow
+• Understanding model performance differences
+• Building and training Spark ML Pipelines
+• Selecting the best model based on evaluation metrics
+
+Tasks I Completed:
+• Trained three regression models (Linear Regression, Decision Tree, Random Forest)
+• Logged and compared model metrics in MLflow
+• Built a Spark ML pipeline using VectorAssembler and Linear Regression
+• Evaluated Spark ML model performance
+• Selected the best-performing model based on R² score
+
+<img width="1919" height="895" alt="image" src="https://github.com/user-attachments/assets/a0d33c9f-7852-458a-bb6d-98db3cd7f422" />
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/04d2840b-d66a-46db-b4a1-145217567ed1" />
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/69d2e2b3-92bc-4420-8175-3e632a8182f7" />
+<img width="1918" height="902" alt="image" src="https://github.com/user-attachments/assets/50560eb0-8060-4b0c-86ed-da51507704ff" />
+<img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/27ffba42-ce94-44b2-b883-74ff51a55d87" />
+
+
+
+
+
 
 
