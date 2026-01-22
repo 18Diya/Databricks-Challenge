@@ -283,7 +283,7 @@ Tasks I Completed:
 <img width="1918" height="902" alt="image" src="https://github.com/user-attachments/assets/50560eb0-8060-4b0c-86ed-da51507704ff" />
 <img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/27ffba42-ce94-44b2-b883-74ff51a55d87" />
 
-# DAY 14 Completed (22/01/2026) – Databricks Genie & Generative AI
+# DAY 14 Completed (22/01/2026) – AI-Powered Analytics: Genie & Mosaic AI
 
 I successfully completed Day 14 of the Databricks AI Challenge, focused on exploring AI-assisted analytics using natural language, Genie, and Mosaic AI capabilities.
 
@@ -299,8 +299,9 @@ Tasks I Completed:
 • Built a simple NLP-based task
 • Generated AI-powered analytical insights
 
-<img width="1256" height="844" alt="image" src="https://github.com/user-attachments/assets/dc78c3df-5569-4ff9-852f-9e4f13673135" />
-<img width="1261" height="896" alt="image" src="https://github.com/user-attachments/assets/9b5d874f-3cef-4ca3-b3c9-f52bfa14f2df" />
-<img width="1250" height="604" alt="image" src="https://github.com/user-attachments/assets/cb2f9457-ccae-443a-8744-7d0db1f184dd" />
-<img width="1252" height="801" alt="image" src="https://github.com/user-attachments/assets/c4b19c42-4552-483c-8bca-fc543647c81b" />
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/bcf1bfa3-b424-4d83-ae54-e47b2c9d8752" />
+<img width="1912" height="832" alt="image" src="https://github.com/user-attachments/assets/cf3f8148-3c80-43ba-9246-525040e9138e" />
+<img width="1914" height="910" alt="image" src="https://github.com/user-attachments/assets/4e000455-7b90-43f6-9a22-fb1bb5502da1" />
+<img width="1919" height="689" alt="image" src="https://github.com/user-attachments/assets/d5ee33ba-dc56-4144-9fad-0c0a940f0a8a" />
+
 
